@@ -33,11 +33,14 @@ A level 4 (L4) digital twin (DT) requires the ability to retrain or rebuild any 
 ## Instructions
 
 When the TwinFlow project is cloned, the three modules will appear as empty folders. In order to use the submodules, you must run two commands: 
-    * git submodule init to initialize local configuration file:
+* git submodule init to initialize local configuration file:
+
     ```bash
     git submodule init
     ```
-    * git submodule update to fetch all the data from that project and check out the appropriate commit listed in your superproject:
+
+* git submodule update to fetch all the data from that project and check out the appropriate commit listed in TwinFlow:
+
     ```bash
     git submodule update
     ```
