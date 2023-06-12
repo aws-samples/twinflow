@@ -15,7 +15,7 @@ flow, allowing for scalable graph orchestration of containerized compute tasks. 
 
 TwinFlow relies on [TwinStat](https://github.com/aws-samples/twinstat) for inductive data-driven predictive modelling, including probabilistic methods for updating model parameters. Other types of predictive models, most notably deductive simulations, must be supplied from external sources (i.e. partners or customers).
 
-TwinModules is the automation that provides python wrappers to AWS tasks, compute and workflow orchestration, and traceability. Users can insert predictive models anywhere within the graph orchestration to complete the L4 DT.
+[TwinModules](https://github.com/aws-samples/twinmodules) is the automation that provides python wrappers to AWS tasks, compute and workflow orchestration, and traceability. Users can insert predictive models anywhere within the graph orchestration to complete the L4 DT.
 
 TwinFlow is designed to help create Digital Twins. In prior [work](https://aws.amazon.com/blogs/iot/digital-twins-on-aws-unlocking-business-value-and-outcomes/), we have described different categories of DTs. These include [L1 (descriptive)](https://aws.amazon.com/blogs/iot/l1-descriptive-digital-twins/), [L2 (informative)](https://aws.amazon.com/blogs/iot/l2-informative-digital-twins/), [L3 (predictive)](https://aws.amazon.com/blogs/iot/l3-predictive-digital-twins/), and [L4 (living)](https://aws.amazon.com/blogs/iot/l4-living-digital-twins/), which is the focus of this work. This is shown in Figure 1.
 
