@@ -25,8 +25,8 @@ TwinFlow is designed to help create Digital Twins. In prior [work](https://aws.a
 
 A level 4 (L4) digital twin (DT) requires the ability to retrain or rebuild any predictive models that are utilized in the digital twin. Predictive models can either be inductive (data-driven: statistical, ML/DL), deductive (first principle-based, spatial simulations), or a hybrid combination. Most companies that utilize L4 DTs write custom code for each application. TwinFlow provides tools to minimize the undifferentiated heavy lifting of building L4 DTs and allows users to focus on the code custom to their use case. Figure 2 shows where the different submodules of TwinFlow (TwinGraph, TwinStat & TwinModules) piece together to form an L4 DT solution.
 
-<center>
-<img src="docs/figures/L4DTOverview.png" width=450></center>
+<center><p align="center">
+<img src="docs/figures/L4DTOverview.png" width=450></p></center>
 <p align="center">Figure 2: Overall Architecture of TwinFlow for Digital Twins.</p>
 
 
