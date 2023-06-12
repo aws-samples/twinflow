@@ -1,0 +1,9 @@
+[submodule "twingraph"]
+	path = twingraph
+	url = https://github.com/aws-samples/twingraph
+[submodule "twinstat"]
+	path = twinstat
+	url = https://github.com/aws-samples/twinstat
+[submodule "twinmodules"]
+	path = twinmodules
+	url = https://github.com/aws-samples/twinmodules

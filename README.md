@@ -30,6 +30,17 @@ A level 4 (L4) digital twin (DT) requires the ability to retrain or rebuild any 
 <p align="center">Figure 2: Overall Architecture of TwinFlow for Digital Twins.</p>
 
 
+## Instructions
+
+When the TwinFlow project is cloned, the three modules will appear as empty folders. In order to use the submodules, you must run two commands: 
+    * git submodule init to initialize local configuration file:
+    ```bash
+    git submodule init
+    ```
+    * git submodule update to fetch all the data from that project and check out the appropriate commit listed in your superproject:
+    ```bash
+    git submodule update
+    ```
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
@@ -38,3 +49,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Credits
+
+This open source framework was developed by the Autonomous Computing Team within Amazon Web Services (AWS) Worldwide Specialist Organization (WWSO). Developers include Ross Pivovar, Satheesh Maheswaran, Vidyasagar Ananthan, and Cheryl Abundo. Authors would like to thank Alex Iankoulski for his detailed guidance and expertise in reviewing the code.
