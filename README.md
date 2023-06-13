@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-We’ve written [a blog that describes example use cases](https://aws.amazon.com/blogs/hpc/deploying-predictive-models-and-simulations-at-scale-using-twinflow-on-aws/) including engineering design optimization, scenario analysis, systems-of-systems analysis, and L3/L4 digital twins. TwinFlow provides a unified framework that enables:
+We’ve written [a blog that describes example use cases](https://aws.amazon.com/blogs/hpc/predictive-models-and-simulations-with-twinflow-on-aws/) including engineering design optimization, scenario analysis, systems-of-systems analysis, and L3/L4 digital twins. TwinFlow provides a unified framework that enables:
 
 * registering different types of predictive models (inductive: data-driven, deductive: simulation, hybrid)
 * task orchestration via graphs
@@ -65,13 +65,15 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 ## References
 
-* [TwinFlow Overview & Use Cases](https://aws.amazon.com/blogs/hpc/deploying-predictive-models-and-simulations-at-scale-using-twinflow-on-aws/)
+* [TwinFlow Overview & Use Cases](https://aws.amazon.com/blogs/hpc/predictive-models-and-simulations-with-twinflow-on-aws//)
 * [Digital Twins Leveling Framework](https://aws.amazon.com/blogs/iot/digital-twins-on-aws-unlocking-business-value-and-outcomes/)
 * [Level 1 Descriptive DT Overview](https://aws.amazon.com/blogs/iot/l1-descriptive-digital-twins/)
 * [Level 2 Informative DT Overview](https://aws.amazon.com/blogs/iot/l2-informative-digital-twins/)
 * [Level 3 Predictive DT Overview](https://aws.amazon.com/blogs/iot/l3-predictive-digital-twins/)
 * [Level 4 Living DT Overview](https://aws.amazon.com/blogs/iot/l4-living-digital-twins/)
 * AWS Do-PM Framework: Parts [1](https://aws.amazon.com/blogs/hpc/building-a-scalable-predictive-modeling-framework-in-aws/), [2](https://aws.amazon.com/blogs/hpc/building-a-scalable-predictive-modeling-framework-in-aws-part-2/), [3](https://aws.amazon.com/blogs/hpc/building-a-scalable-predictive-modeling-framework-in-aws-part-3/)
+* [Level 3 Digital Twin Virtual Sensors with Ansys on AWS](https://aws.amazon.com/blogs/hpc/deploying-a-level-3-digital-twin-virtual-sensor-with-ansys-on-aws/)
+
 
 ## Credits
 
