@@ -11,7 +11,7 @@ We’ve written [a blog that describes example use cases](https://aws.amazon.com
 * mechanisms for self-learning (i.e. run triggers to rerun training and building of predictive models, update model parameters using probabilistic methods)
 
 <center>
-<img src="docs/figures/AWS_TwinFlowBlog_Figure2.png" width=780></center>
+<img src="docs/figures/AWS_TwinFlowBlog_Figure2.jpg" width=780></center>
 <p align="center">Figure 1: Overview of TwinFlow.</p>
 
 
